@@ -1,0 +1,17 @@
+/*
+* Third Party
+*/
+//@import "../../bower_components/normalize.css/normalize.css";
+
+/*
+* Custom
+*/
+@import "partials/app";
+
+.header {
+  background-repeat: no-repeat;
+  background-position: center;
+  background-image: url("../img/bg.png");
+  width: 1129px;
+  height: 295px;
+}
